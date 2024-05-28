@@ -6,6 +6,14 @@
         "Name": "Yashvant Yadav"
       }
     ],
-    "Category": "System Information"
-  }
+    "Category": "System Information",
+    "Description": "A plasmoid which works as a logo menu specially for Arch.",
+    "Icon": "arch-logo",
+    "Id": "org.kde.arch-logo-plasmoid",
+    "Name": "Arch Logo Plasmoid",
+    "Version": "1.0",
+    "Website": "https://github.com/YadavYashvant/ArchLogo-Plasmoid"
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "KPackageStructure": "Plasma/Applet"
 }
